@@ -87,7 +87,11 @@
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
     "url": "^0.11.4",
-    "vm-browserify": "^1.1.2"
+    "vm-browserify": "^1.1.2",
+    "svgo": "^3.3.2"
+  },
+  "engines": {
+    "node": "22.x"
   },
   "@parcel/resolver-default": {
     "packageExports": true
