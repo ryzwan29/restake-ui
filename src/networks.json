@@ -33,5 +33,12 @@
     "aminoPreventTypes": [
       "/cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission"
     ]
+  },
+  {
+    "name": "dungeon",
+    "ownerAddress": "dungeonvaloper108a82xy8ff9c6aw72rxs56yendq6spdvs88d8s",
+    "aminoPreventTypes": [
+      "/cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission"
+    ]
   }
 ]
