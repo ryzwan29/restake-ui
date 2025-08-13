@@ -1,0 +1,37 @@
+[
+  {
+    "name": "axone",
+    "ownerAddress": "axonevaloper1ytru6auvhmp0ygyeka6mkjzl80zf99uw3w8gcw",
+    "aminoPreventTypes": [
+      "/cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission"
+    ]
+  },
+  {
+    "name": "medasdigital",
+    "ownerAddress": "medasvaloper1npw0kkuh5gmw22nxpumax442fpxuz5uvu3atuq",
+    "aminoPreventTypes": [
+      "/cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission"
+    ]
+  },
+  {
+    "name": "bitbadges",
+    "ownerAddress": "bbvaloper1gnty0dnfgq8lgluaselsfzddgjlufepspvlx30",
+    "aminoPreventTypes": [
+      "/cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission"
+    ]
+  },
+  {
+    "name": "dhealth",
+    "ownerAddress": "dhvaloper1yt0t49ykx2yc0ln9ywmnq2mfd69upvx97u4kpl",
+    "aminoPreventTypes": [
+      "/cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission"
+    ]
+  },
+  {
+    "name": "hippoprotocol",
+    "ownerAddress": "hippovaloper1aeyautdguat2y8nq66qm2pxg6ah70c8lptvnca",
+    "aminoPreventTypes": [
+      "/cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission"
+    ]
+  }
+]
