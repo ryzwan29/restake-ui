@@ -40,5 +40,12 @@
     "aminoPreventTypes": [
       "/cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission"
     ]
+  },
+  {
+    "name": "regen",
+    "ownerAddress": "regenvaloper1zcll4k60y9v6edkht0xadexl62kjew36ezy799",
+    "aminoPreventTypes": [
+      "/cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission"
+    ]
   }
 ]
